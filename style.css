@@ -1,0 +1,52 @@
+.button
+{
+    top: 25%;
+    left: 15%;
+    position: absolute;
+    background-color: orangered;
+    margin-left: 31%;
+    margin-top: 5%;
+}
+h1
+{
+ 
+ text-align: center;
+ color: azure
+}
+h1:hover
+{
+    background-color: red;
+    
+}
+video
+{
+    position: fixed;
+    min-width: 50%;
+    min-height: 50%;
+    margin-left: 25%;
+    transform: scaleX(2);
+    
+   
+    
+}
+body
+{
+  width: 100%;   
+}
+.head
+{
+     top: 9%;
+      left: 9%;
+      margin-left: 31%;
+      margin-top: 5%;
+     position: absolute;
+    background-color: aqua;
+}
+a
+{
+    text-decoration: none;
+}
+html
+{
+    background-color: dimgrey;
+}
